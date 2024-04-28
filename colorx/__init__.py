@@ -1,7 +1,7 @@
 __version__ = "24042601"
 __author_email__ ="xiaotech@163.com"
 __author__ = "xiaotech"
-__release_name__ = "colorx"
+__release_name__ = "colorxx"
 __url__ = "https://github.com/xiaotech/colorx"
 
 class Style:
